@@ -15,7 +15,7 @@ nav ul a span.badge {
 
 .breadcrumbs {
   color: #fff;
-  background: #357a38; }
+  background: #0a6ebd; }
 
 th {
   font-weight: 300; }
@@ -25,7 +25,7 @@ th {
 
 .side-nav.fixed .logo {
   height: 150px;
-  background-color: #357a38; }
+  background-color: #0a6ebd; }
 
 .side-nav.fixed .logo a {
   margin-left: auto;
@@ -73,20 +73,20 @@ ul.side-nav.module-menu .collapsible-body .collapsible-body .collapsible-body li
   padding-left: 5rem; }
 
 ul.side-nav.module-menu .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-  background: #4CAF50; }
+  background: #6ab8f7; }
 
 ul.side-nav.module-menu li.active > a > span.badge {
   color: #fff; }
 
 .side-nav.fixed .collapsible-body li.active.header {
-  background-color: #388E3C;
+  background-color: #2196f3;
   border-bottom: 1px solid #eee; }
 
 .side-nav.fixed .collapsible-body .collapsible-body li.active.header {
   background-color: #DDD; }
 
 .side-nav.fixed .collapsible-body .collapsible-body .collapsible-body li.active {
-  background-color: #4CAF50; }
+  background-color: #6ab8f7; }
 
 .side-nav.fixed .collapsible-body li.active a {
   color: #424242; }
@@ -144,7 +144,7 @@ ul.side-nav.module-menu li.active > a > span.badge {
   color: #444;
   cursor: pointer; }
   .frontend-list .paginate_button.current {
-    background-color: #4caf50;
+    background-color: #2196f3;
     color: white; }
   .frontend-list .paginate_button.disabled {
     cursor: default;
