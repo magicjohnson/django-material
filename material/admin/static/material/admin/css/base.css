@@ -109,13 +109,13 @@ ul.side-nav.module-menu .collapsible-header i.material-icons {
   padding-left: 4rem; }
 
 ul.side-nav.module-menu .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-  background: #0D47A1; }
+  background: #6ab8f7; }
 
 ul.side-nav.module-menu li.active > a > span.badge {
   color: #ffffff; }
 
 .side-nav.fixed .collapsible-body li.active.header {
-  background-color: #1976D2;
+  background-color: #2196f3;
   border-bottom: 1px solid #eee; }
 
 .side-nav.fixed .collapsible-body li.active.header > a {

@@ -73,20 +73,20 @@ ul.side-nav.module-menu .collapsible-body .collapsible-body .collapsible-body li
   padding-left: 5rem; }
 
 ul.side-nav.module-menu .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-  background: #0D47A1; }
+  background: #6ab8f7; }
 
 ul.side-nav.module-menu li.active > a > span.badge {
   color: #fff; }
 
 .side-nav.fixed .collapsible-body li.active.header {
-  background-color: #1976D2;
+  background-color: #2196f3;
   border-bottom: 1px solid #eee; }
 
 .side-nav.fixed .collapsible-body .collapsible-body li.active.header {
   background-color: #DDD; }
 
 .side-nav.fixed .collapsible-body .collapsible-body .collapsible-body li.active {
-  background-color: #0D47A1; }
+  background-color: #6ab8f7; }
 
 .side-nav.fixed .collapsible-body li.active a {
   color: #424242; }

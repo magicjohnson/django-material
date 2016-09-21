@@ -13,6 +13,6 @@ $link-color: #039be5;                                // light-blue darken-1
 $logo-background-color: $primary-color-dark;
 
 $nav-default-text-color: #424242;                    // grey darken-3
-$nav-1st-level-color: #1976D2;                       // blue 700
+$nav-1st-level-color: $primary-color;
 $nav-1st-level-text-color: #ffffff;                  // white
-$nav-2d-level-color: #0D47A1;                        // blue 900
+$nav-2d-level-color: $primary-color-light;
